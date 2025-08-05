@@ -9,7 +9,7 @@ namespace = false
 
 [project]
 name = "edc-view-utils"
-version = "1.0.1"
+version = "1.0.2"
 description = "Simple utilities for views in clinicedc/edc projects"
 readme = {file = "README.rst", content-type = "text/x-rst"}
 license = "GPL-3.0-or-later"
